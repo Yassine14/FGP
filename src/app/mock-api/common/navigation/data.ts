@@ -4,7 +4,7 @@ import { FuseNavigationItem } from '@fuse/components/navigation';
 export const defaultNavigation: FuseNavigationItem[] = [
     {
         id   : 'home',
-        title: 'Home',
+        title: 'Home TEMP',
         type : 'basic',
         icon : 'heroicons_outline:home',
         link : '/home'
